@@ -1,0 +1,26 @@
+#nav {
+	background-color: turquoise;
+	padding: 40px 0px;
+}
+
+#nav li{
+	color: white;
+	display: inline;
+	list-style-type: none;
+	font-size: 30px;
+	padding: 90px;
+}
+
+h2{
+	font-size: 50px;
+	text-align: center;
+	background: pink;
+	padding: 20px;
+}
+
+h3{
+	font-size: 30px;
+	text-align: center;
+	background-color: yellow;
+	padding: 10px;
+}
